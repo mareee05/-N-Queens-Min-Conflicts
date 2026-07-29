@@ -1,0 +1,1 @@
+# -N-Queens-Min-Conflicts
